@@ -1,0 +1,14 @@
+[0318/203738.543:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0318/203738.544:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0318/203901.264:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0318/203901.317:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(125,1): warning X4000: use of potentially uninitialized variable (f_mainImage)
+
+[0318/203901.406:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0318/203918.611:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
