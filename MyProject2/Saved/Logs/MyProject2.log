@@ -9535,3 +9535,12 @@ LPT1, LPT2, LPT3, LPT4, LPT5, LPT6, LPT7, LPT8, or LPT9.
 [2025.03.29-20.04.22:639][194]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 2 outstanding Http Requests:
 [2025.03.29-20.04.22:639][194]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCA012143-4329-E808-C370-47AF04882A99%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=335fdae44294422ab161f89332e31e37%7C537ef4d32743492394b598657595775c%7Cd0359e1e-7e8b-4c22-9933-06a18034bfce&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[3] status=Processing
 [2025.03.29-20.04.22:639][194]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCA012143-4329-E808-C370-47AF04882A99%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=335fdae44294422ab161f89332e31e37%7C537ef4d32743492394b598657595775c%7Cd0359e1e-7e8b-4c22-9933-06a18034bfce&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.03.29-20.04.23:522][194]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.03.29-20.04.23:654][194]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.03.29-20.04.23:654][194]LogNFORDenoise: NFORDenoise function shutting down
+[2025.03.29-20.04.24:351][194]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.03.29-20.04.24:351][194]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.03.29-20.04.24:356][194]LogPakFile: Destroying PakPlatformFile
+[2025.03.29-20.04.25:673][194]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.03.29-20.04.26:101][194]LogExit: Exiting.
+[2025.03.29-20.04.26:229][194]Log file closed, 03/29/25 16:04:26
