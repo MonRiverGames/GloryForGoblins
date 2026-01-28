@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 ﻿Log file open, 10/23/25 13:40:41
+=======
+﻿Log file open, 01/12/26 16:32:42
+>>>>>>> Stashed changes
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -6,8 +10,12 @@ LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
+<<<<<<< Updated upstream
 LogWindows: Started CrashReportClient (pid=14876)
 LogWindows: Enabling Tpause support
+=======
+LogWindows: Started CrashReportClient (pid=8492)
+>>>>>>> Stashed changes
 LogWindows: Warning: Failed to set completion port for job object "UE.ShaderCompileWorker.JobGroup": The parameter is incorrect.
 LogWindows: Custom abort handler registered for crash reporting.
 LogInit: Display: Running engine for game: MyProject2
@@ -18,22 +26,37 @@ LogTrace: Display: Display Control listening on port 1985
 LogTrace: Finished trace initialization.
 LogCsvProfiler: Display: Metadata set : platform="Windows"
 LogCsvProfiler: Display: Metadata set : config="Development"
+<<<<<<< Updated upstream
 LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.5-CL-40574608"
 LogCsvProfiler: Display: Metadata set : engineversion="5.5.4-40574608+++UE5+Release-5.5"
 LogCsvProfiler: Display: Metadata set : os="Windows 11 (24H2) [10.0.26100.6899] "
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i9-14900KF"
+=======
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.5-CL-38445549"
+LogCsvProfiler: Display: Metadata set : engineversion="5.5.1-38445549+++UE5+Release-5.5"
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (24H2) [10.0.26100.6899] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz"
+>>>>>>> Stashed changes
 LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
 LogCsvProfiler: Display: Metadata set : ltoenabled="0"
 LogCsvProfiler: Display: Metadata set : asan="0"
+<<<<<<< Updated upstream
 LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/jer00032/Documents/GitHub/GloryForGoblins/MyProject2/MyProject2.uproject -AUTH_LOGIN=unused -AUTH_PASSWORD=e92cf3e579384ffeb329db7ea315c267 -AUTH_TYPE=exchangecode -epicapp=UE_5.5 -epicenv=Prod -EpicPortal -epicusername=jorgewvu -epicuserid=fb589fb0da864fa78977e1d2ccd929a1 -epiclocale=en -epicsandboxid=ue""
 LogCsvProfiler: Display: Metadata set : loginid="856199c944b4f8f91c062195aba57a05"
 LogCsvProfiler: Display: Metadata set : llm="0"
 LogStats: Stats thread started at 0.291415
+=======
+LogCsvProfiler: Display: Metadata set : commandline="" "D:/github repository/Game3/GloryForGoblins/MyProject2/MyProject2.uproject" /Game/TopDown/Maps/World1-4 -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=0 -WinY=68 SAVEWINPOS=1 -ResX=1912 -ResY=974""
+LogCsvProfiler: Display: Metadata set : loginid="b48934c64c6eda8ff13f6c8309a4940e"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogStats: Stats thread started at 1.378527
+>>>>>>> Stashed changes
 LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogInit: Session CrashGUID >====================================================
+<<<<<<< Updated upstream
          Session CrashGUID >   UECC-Windows-9E72B9B64C878065248D2091D923203A
          Session CrashGUID >====================================================
 LogConfig: No local boot hotfix file found at: [../../../../../../Users/jer00032/Documents/GitHub/GloryForGoblins/MyProject2/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
@@ -51,12 +74,22 @@ LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
 LogConfig: Display: Loading VisionOS ini files took 0.06 seconds
 LogConfig: Display: Loading Linux ini files took 0.06 seconds
 LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+=======
+         Session CrashGUID >   UECC-Windows-F1ABD5B44BFB0B9D000BE1BB0B17FAF2
+         Session CrashGUID >====================================================
+LogConfig: No local boot hotfix file found at: [D:/github repository/Game3/GloryForGoblins/MyProject2/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+LogAudio: Display: Pre-Initializing Audio Device Manager...
+LogAudio: Display: AudioInfo: 'OPUS' Registered
+LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+LogAudio: Display: AudioInfo: 'OGG' Registered
+>>>>>>> Stashed changes
 LogAudio: Display: AudioInfo: 'ADPCM' Registered
 LogAudio: Display: AudioInfo: 'PCM' Registered
 LogAudio: Display: AudioInfo: 'BINKA' Registered
 LogAudio: Display: AudioInfo: 'RADA' Registered
 LogAudio: Display: Audio Device Manager Pre-Initialized
 LogPluginManager: Looking for build plugins target receipt
+<<<<<<< Updated upstream
 LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/jer00032/Documents/GitHub/GloryForGoblins/MyProject2/Binaries/Win64/*.target
 LogAssetRegistry: Display: Asset registry cache read as 41.7 MiB from ../../../../../../Users/jer00032/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/CachedAssetRegistry_0 2.bin
 LogAssetRegistry: Display: Asset registry cache read as 42.3 MiB from ../../../../../../Users/jer00032/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/CachedAssetRegistry_0 3.bin
@@ -64,6 +97,25 @@ LogAssetRegistry: Display: Asset registry cache read as 45.2 MiB from ../../../.
 LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
 LogPluginManager: Looking for enabled plugins target receipt
 LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/jer00032/Documents/GitHub/GloryForGoblins/MyProject2/Binaries/Win64/*.target
+=======
+LogPluginManager: Unable to find target receipt in path: D:/github repository/Game3/GloryForGoblins/MyProject2/Binaries/Win64/*.target
+LogConfig: Display: Loading Android ini files took 0.15 seconds
+LogConfig: Display: Loading IOS ini files took 0.19 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.18 seconds
+LogConfig: Display: Loading Linux ini files took 0.21 seconds
+LogAssetRegistry: Display: Asset registry cache read as 41.7 MiB from D:/github repository/Game3/GloryForGoblins/MyProject2/Intermediate/CachedAssetRegistry_0 2.bin
+LogConfig: Display: Loading Mac ini files took 0.16 seconds
+LogConfig: Display: Loading TVOS ini files took 0.15 seconds
+LogConfig: Display: Loading Unix ini files took 0.15 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.10 seconds
+LogAssetRegistry: Display: Asset registry cache read as 45.8 MiB from D:/github repository/Game3/GloryForGoblins/MyProject2/Intermediate/CachedAssetRegistry_0.bin
+LogAssetRegistry: Display: Asset registry cache read as 42.3 MiB from D:/github repository/Game3/GloryForGoblins/MyProject2/Intermediate/CachedAssetRegistry_0 3.bin
+LogConfig: Display: Loading Windows ini files took 0.12 seconds
+LogConfig: Display: Loading VisionOS ini files took 0.15 seconds
+LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
+LogPluginManager: Looking for enabled plugins target receipt
+LogPluginManager: Unable to find target receipt in path: D:/github repository/Game3/GloryForGoblins/MyProject2/Binaries/Win64/*.target
+>>>>>>> Stashed changes
 LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
 LogPluginManager: Mounting Engine plugin Bridge
 LogPluginManager: Mounting Engine plugin ChaosCloth
@@ -76,8 +128,8 @@ LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin RenderGraphInsights
 LogPluginManager: Mounting Engine plugin TraceUtilities
 LogPluginManager: Mounting Engine plugin UbaController
-LogPluginManager: Mounting Engine plugin WorldMetrics
 LogPluginManager: Mounting Engine plugin XGEController
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin DatasmithContent
 LogPluginManager: Mounting Engine plugin GLTFExporter
 LogPluginManager: Mounting Engine plugin VariantManager
@@ -97,17 +149,75 @@ LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin AndroidFileServer
 LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
 LogPluginManager: Mounting Engine plugin AndroidPermission
+=======
+LogPluginManager: Mounting Engine plugin WorldMetrics
+LogPluginManager: Mounting Engine plugin EngineCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlueprintHeaderView
+LogPluginManager: Mounting Engine plugin ChangelistReview
+LogPluginManager: Mounting Engine plugin ColorGrading
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin EngineAssetDefinitions
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin UMGWidgetPreview
+LogPluginManager: Mounting Engine plugin UVEditor
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlate
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin NNEDenoiser
+LogPluginManager: Mounting Engine plugin NNERuntimeORT
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin AppleImageUtils
 LogPluginManager: Mounting Engine plugin AppleMoviePlayer
 LogPluginManager: Mounting Engine plugin ArchVisCharacter
 LogPluginManager: Mounting Engine plugin AssetTags
 LogPluginManager: Mounting Engine plugin AudioCapture
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin AudioWidgets
 LogPluginManager: Mounting Engine plugin CableComponent
 LogPluginManager: Mounting Engine plugin AudioSynesthesia
 LogPluginManager: Mounting Engine plugin ChunkDownloader
 LogPluginManager: Mounting Engine plugin CustomMeshComponent
 LogPluginManager: Mounting Engine plugin ComputeFramework
+=======
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioWidgets
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ComputeFramework
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin GeometryCache
 LogPluginManager: Mounting Engine plugin GeometryProcessing
@@ -117,6 +227,7 @@ LogPluginManager: Mounting Engine plugin HairStrands
 LogPluginManager: Mounting Engine plugin InputDebugging
 LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
 LogPluginManager: Mounting Engine plugin Metasound
 LogPluginManager: Mounting Engine plugin MobilePatchingUtils
@@ -1578,3 +1689,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.23-18.05.42:138][334]LogD3D12RHI: ~FD3D12DynamicRHI
 [2025.10.23-18.05.42:239][334]LogExit: Exiting.
 [2025.10.23-18.05.42:257][334]Log file closed, 10/23/25 14:05:42
+=======
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin Metasound
+>>>>>>> Stashed changes
