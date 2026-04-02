@@ -1,0 +1,11 @@
+﻿Log file open, 04/02/26 10:25:47
+LogStats: Stats thread started at 0.990698
+LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-A5284A8A46AF66DF34CF4F8605258632
+         Session CrashGUID >====================================================
+LogWindows: FPlatformMisc::RequestExit(1, WindowsPlatformCrashContext.EngineUnhandledExceptionFilter)
+LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3, WindowsPlatformCrashContext.EngineUnhandledExceptionFilter)
+LogCore: Engine exit requested (reason: Win RequestExit)
