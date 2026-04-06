@@ -1,0 +1,54 @@
+# Generic Unreal Engine .gitignore template
+[Intermediate]
+[Saved]
+[DerivedDataCache]
+[Build]
+[Binaries]
+[Plugins/*/Binaries]
+[Plugins/*/Intermediate]
+[Content/Developers]
+[Content/Collections]
+
+# Visual Studio files
+.vs/
+.VC.db
+.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.tmp
+*.user
+*.vcxproj
+*.vcxitems
+
+# Mac
+.DS_Store
+
+# Packaged games
+[WindowsNoEditor]
+[WindowsClient]
+[LinuxNoEditor]
+[LinuxClient]
+[MacNoEditor]
+[MacClient]
+[Android_ETC2]
+[Android_ASTC]
+[Android_DXT]
+[Android_ATC]
+[Android_PVRTC]
+[iOS]
+[TVOS]
+
+# Launcher downloaded plugins
+[Plugins/UnrealTournament]
+[Plugins/OceanProject]
+
+# DDC files (ensure they are ignored even if the DDC folder itself is not tracked)
+*.ddc
+
+# SwarmAgent
+.swarm/
+
+# Crash Reports
+[CrashReports]
