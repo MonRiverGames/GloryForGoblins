@@ -6079,3 +6079,19 @@ Make sure '/Game/TopDown/Maps/World1-FightOrFlightTutorial.World1-FightOrFlightT
 [2026.04.20-16.36.45:579][404]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.20-16.36.45:579][404]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.20-16.36.45:579][404]AssetCheck: /Game/TopDown/Maps/World1-FightOrFlightTutorial Validating asset
+[2026.04.20-16.39.12:488][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.04.20-16.39.12:491][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.20-16.39.12:595][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.04.20-16.39.12:892][731]LogSavePackage: Moving output files for package: /Game/TopDown/Maps/World1-FightOrFlightTutorial
+[2026.04.20-16.39.12:892][731]LogSavePackage: Moving '../../../../../../Users/jlc00049/Documents/Github/GloryForGoblins/MyProject2/Saved/World1-FightOrFlightTutorial1B78964541C8D3E9A7A526BE4B3EEB7F.tmp' to '../../../../../../Users/jlc00049/Documents/Github/GloryForGoblins/MyProject2/Content/TopDown/Maps/World1-FightOrFlightTutorial.umap'
+[2026.04.20-16.39.12:916][731]LogFileHelpers: Saving map 'World1-FightOrFlightTutorial' took 0.372
+[2026.04.20-16.39.12:930][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 439.177 ms (total: 4.26 sec)
+[2026.04.20-16.39.12:971][731]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.20-16.39.12:971][731]LogContentValidation: Enabled validators:
+[2026.04.20-16.39.12:971][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.20-16.39.12:971][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.20-16.39.12:971][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.20-16.39.12:971][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.20-16.39.12:971][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.20-16.39.12:971][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.20-16.39.12:971][731]AssetCheck: /Game/TopDown/Maps/World1-FightOrFlightTutorial Validating asset
