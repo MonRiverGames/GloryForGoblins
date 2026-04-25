@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 ﻿Log file open, 04/24/26 17:26:46
+=======
+﻿Log file open, 04/24/26 22:26:52
+>>>>>>> Stashed changes
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -6,7 +10,11 @@ LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
+<<<<<<< Updated upstream
 LogWindows: Started CrashReportClient (pid=2336)
+=======
+LogWindows: Started CrashReportClient (pid=11460)
+>>>>>>> Stashed changes
 LogWindows: Enabling Tpause support
 LogWindows: Custom abort handler registered for crash reporting.
 LogInit: Display: Running engine for game: MyProject2
@@ -28,12 +36,20 @@ LogCsvProfiler: Display: Metadata set : asan="0"
 LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\Kayden\Documents\GitHub\GloryForGoblins\MyProject2\MyProject2.uproject""
 LogCsvProfiler: Display: Metadata set : loginid="6f9a58504f492fc3667235839bf39c65"
 LogCsvProfiler: Display: Metadata set : llm="0"
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.255252
+=======
+LogStats: Stats thread started at 0.263158
+>>>>>>> Stashed changes
 LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogInit: Session CrashGUID >====================================================
+<<<<<<< Updated upstream
          Session CrashGUID >   UECC-Windows-7B3F9CBE4011ECD2032B0C9D3BD8C91B
+=======
+         Session CrashGUID >   UECC-Windows-1281C6884061E071DF922AA6EEE6CB3C
+>>>>>>> Stashed changes
          Session CrashGUID >====================================================
 LogConfig: No local boot hotfix file found at: [../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 LogAudio: Display: Pre-Initializing Audio Device Manager...
@@ -48,6 +64,7 @@ LogAudio: Display: Audio Device Manager Pre-Initialized
 LogPluginManager: Looking for build plugins target receipt
 LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Binaries/Win64/*.target
 LogConfig: Display: Loading Mac ini files took 0.04 seconds
+<<<<<<< Updated upstream
 LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
 LogConfig: Display: Loading IOS ini files took 0.04 seconds
 LogConfig: Display: Loading Android ini files took 0.04 seconds
@@ -60,6 +77,20 @@ LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
 LogConfig: Display: Loading Linux ini files took 0.06 seconds
 LogAssetRegistry: Display: Asset registry cache read as 41.7 MiB from ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/CachedAssetRegistry_0 2.bin
 LogAssetRegistry: Display: Asset registry cache read as 57.8 MiB from ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/CachedAssetRegistry_0.bin
+=======
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading VisionOS ini files took 0.06 seconds
+LogConfig: Display: Loading Windows ini files took 0.06 seconds
+LogAssetRegistry: Display: Asset registry cache read as 41.7 MiB from ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/CachedAssetRegistry_0 2.bin
+LogAssetRegistry: Display: Asset registry cache read as 57.8 MiB from ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/CachedAssetRegistry_0.bin
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogAssetRegistry: Display: Asset registry cache read as 42.3 MiB from ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/CachedAssetRegistry_0 3.bin
+LogConfig: Display: Loading LinuxArm64 ini files took 0.07 seconds
+>>>>>>> Stashed changes
 LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
 LogPluginManager: Looking for enabled plugins target receipt
 LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Binaries/Win64/*.target
@@ -78,6 +109,7 @@ LogPluginManager: Mounting Engine plugin UbaController
 LogPluginManager: Mounting Engine plugin WorldMetrics
 LogPluginManager: Mounting Engine plugin XGEController
 LogPluginManager: Mounting Engine plugin OodleNetwork
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin AssetManagerEditor
 LogPluginManager: Mounting Engine plugin BlueprintHeaderView
 LogPluginManager: Mounting Engine plugin ChangelistReview
@@ -104,6 +136,8 @@ LogPluginManager: Mounting Engine plugin UMGWidgetPreview
 LogPluginManager: Mounting Engine plugin UVEditor
 LogPluginManager: Mounting Engine plugin StylusInput
 LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin DatasmithContent
 LogPluginManager: Mounting Engine plugin GLTFExporter
 LogPluginManager: Mounting Engine plugin VariantManager
@@ -112,6 +146,7 @@ LogPluginManager: Mounting Engine plugin Niagara
 LogPluginManager: Mounting Engine plugin NiagaraFluids
 LogPluginManager: Mounting Engine plugin NiagaraSimCaching
 LogPluginManager: Mounting Engine plugin AlembicImporter
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin ActorSequence
 LogPluginManager: Mounting Engine plugin LevelSequenceEditor
 LogPluginManager: Mounting Engine plugin SequencerScripting
@@ -235,6 +270,11 @@ LogPluginManager: Mounting Engine plugin PythonScriptPlugin
 LogPluginManager: Mounting Engine plugin SkeletalReduction
 LogPluginManager: Mounting Engine plugin StudioTelemetry
 LogPluginManager: Mounting Engine plugin ToolPresets
+=======
+LogPluginManager: Mounting Engine plugin InterchangeAssets
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin AndroidMedia
 LogPluginManager: Mounting Engine plugin AvfMedia
 LogPluginManager: Mounting Engine plugin ImgMedia
@@ -242,6 +282,7 @@ LogPluginManager: Mounting Engine plugin MediaCompositing
 LogPluginManager: Mounting Engine plugin MediaPlayerEditor
 LogPluginManager: Mounting Engine plugin MediaPlate
 LogPluginManager: Mounting Engine plugin WebMMedia
+<<<<<<< Updated upstream
 LogPluginManager: Mounting Engine plugin TcpMessaging
 LogPluginManager: Mounting Engine plugin UdpMessaging
 LogPluginManager: Mounting Engine plugin WmfMedia
@@ -264,7 +305,177 @@ LogPluginManager: Mounting Engine plugin SQLiteCore
 LogPluginManager: Mounting Engine plugin ObjectMixer
 LogPluginManager: Mounting Engine plugin SkeletalMeshModelingTools
 LogPluginManager: Mounting Engine plugin ConcertSyncClient
+=======
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin EOSShared
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin InterchangeTests
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationData
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ACLPlugin
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin DeformerGraph
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRigModules
+LogPluginManager: Mounting Engine plugin LiveLink
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin RigLogic
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin EngineCameras
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin DumpGPUServices
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin N10XSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RenderDocPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ChangelistReview
+LogPluginManager: Mounting Engine plugin BlueprintHeaderView
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin ColorGrading
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EngineAssetDefinitions
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin UVEditor
+LogPluginManager: Mounting Engine plugin UMGWidgetPreview
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AdvancedRenamer
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosUserDataPT
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin Dataflow
+LogPluginManager: Mounting Engine plugin EditorDataStorage
+LogPluginManager: Mounting Engine plugin EditorPerformance
+LogPluginManager: Mounting Engine plugin EditorTelemetry
+LogPluginManager: Mounting Engine plugin Fracture
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin LocalizableMessage
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin LowLevelNetTrace
+LogPluginManager: Mounting Engine plugin NFORDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin StudioTelemetry
+LogPluginManager: Mounting Engine plugin ToolPresets
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin NNEDenoiser
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin NNERuntimeORT
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioWidgets
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ComputeFramework
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin InputDebugging
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin Metasound
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MsQuic
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin RigVM
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin USDCore
+LogPluginManager: Mounting Engine plugin StateTree
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WaveTable
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin XInputDevice
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin MetaHumanSDK
+LogPluginManager: Mounting Engine plugin PortableObjectFileDataSource
+LogPluginManager: Mounting Engine plugin HoldoutComposite
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin BaseCharacterFXEditor
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin SkeletalMeshModelingTools
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin ConcertSyncCore
+LogPluginManager: Mounting Engine plugin ConcertSyncClient
 LogPluginManager: Mounting Project plugin FMODStudio
 LogPluginManager: Mounting Project plugin FMODStudioNiagara
 SourceControl: Revision control is disabled
@@ -299,6 +510,11 @@ RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRende
 LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
 LogWindows: File 'WinPixGpuCapturer.dll' does not exist
 PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+<<<<<<< Updated upstream
+=======
+LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
+RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+>>>>>>> Stashed changes
 LogNFORDenoise: NFORDenoise function starting up
 LogStudioTelemetry: Display: Starting StudioTelemetry Module
 LogStudioTelemetry: Started StudioTelemetry Session
@@ -358,6 +574,7 @@ LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B):
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
 LogDevObjectVersion:   Dev-ComputeFramework (6304A3E7-0059-4F59-8CFC-21BD7721FD4E): 0
+<<<<<<< Updated upstream
 LogConfig: Branch 'EditorLayout' had been unloaded. Reloading on-demand took 1.07ms
 LogConfig: Branch 'Bridge' had been unloaded. Reloading on-demand took 0.15ms
 LogConfig: Branch 'ChaosCloth' had been unloaded. Reloading on-demand took 0.13ms
@@ -531,6 +748,181 @@ LogConfig: Branch 'SQLiteCore' had been unloaded. Reloading on-demand took 0.13m
 LogConfig: Branch 'ObjectMixer' had been unloaded. Reloading on-demand took 0.13ms
 LogConfig: Branch 'SkeletalMeshModelingTools' had been unloaded. Reloading on-demand took 0.14ms
 LogConfig: Branch 'ConcertSyncClient' had been unloaded. Reloading on-demand took 0.14ms
+=======
+LogConfig: Branch 'EditorLayout' had been unloaded. Reloading on-demand took 1.05ms
+LogConfig: Branch 'Bridge' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'ChaosCloth' had been unloaded. Reloading on-demand took 0.39ms
+LogConfig: Branch 'CmdLinkServer' had been unloaded. Reloading on-demand took 0.16ms
+LogConfig: Branch 'FastBuildController' had been unloaded. Reloading on-demand took 0.15ms
+LogConfig: Branch 'MeshPainting' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'RenderGraphInsights' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'UbaController' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'WorldMetrics' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'XGEController' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'OodleNetwork' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'VariantManager' had been unloaded. Reloading on-demand took 0.14ms
+LogCoreRedirects: AddRedirect(C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Saved/Config/WindowsEditor/NiagaraFluids.ini) has wildcard redirect /NiagaraSimulationStages/, these are very slow and should be resolved as soon as possible! Please refer to the documentation in Engine/Config/BaseEngine.ini.
+LogConfig: Branch 'NiagaraSimCaching' had been unloaded. Reloading on-demand took 0.24ms
+LogConfig: Branch 'AlembicImporter' had been unloaded. Reloading on-demand took 0.16ms
+LogConfig: Branch 'InterchangeEditor' had been unloaded. Reloading on-demand took 0.16ms
+LogConfig: Branch 'AndroidMedia' had been unloaded. Reloading on-demand took 0.15ms
+LogConfig: Branch 'AvfMedia' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ImgMedia' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'MediaCompositing' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'MediaPlate' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'MediaPlayerEditor' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'WebMMedia' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'WmfMedia' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'EOSShared' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'OnlineBase' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'OnlineServices' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'OnlineSubsystem' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'OnlineSubsystemNull' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'OnlineSubsystemUtils' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'InterchangeTests' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'TcpMessaging' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'UdpMessaging' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AISupport' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'EnvironmentQueryEditor' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AnimationData' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AnimationModifierLibrary' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'BlendSpaceMotionAnalysis' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ACLPlugin' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ControlRigSpline' had been unloaded. Reloading on-demand took 0.16ms
+LogConfig: Branch 'ControlRigModules' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'CameraShakePreviewer' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'RigLogic' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'EngineCameras' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'CodeLiteSourceCodeAccess' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AnimationSharing' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'CLionSourceCodeAccess' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'GitSourceControl' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'DumpGPUServices' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'KDevelopSourceCodeAccess' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'N10XSourceCodeAccess' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'PlasticSourceControl' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'PixWinPlugin' had been unloaded. Reloading on-demand took 0.17ms
+LogConfig: Branch 'NullSourceCodeAccess' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'PropertyAccessNode' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'RenderDocPlugin' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'PluginUtils' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'PerforceSourceControl' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'RiderSourceCodeAccess' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'SubversionSourceControl' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'VisualStudioCodeSourceCodeAccess' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'UObjectPlugin' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'TextureFormatOodle' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'XCodeSourceCodeAccess' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AssetManagerEditor' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'VisualStudioSourceCodeAccess' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'ChangelistReview' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'BlueprintHeaderView' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'CryptoKeys' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'CurveEditorTools' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ColorGrading' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'DataValidation' had been unloaded. Reloading on-demand took 0.12ms
+LogConfig: Branch 'EditorDebugTools' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'EngineAssetDefinitions' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'GameplayTagsEditor' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'FacialAnimation' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'GeometryMode' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'MaterialAnalyzer' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'MobileLauncherProfileWizard' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ModelingToolsEditorMode' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'MacGraphicsSwitching' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'MeshLODToolset' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'SequencerAnimTools' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ProxyLODPlugin' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'StylusInput' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'PluginBrowser' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'SpeedTreeImporter' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'UVEditor' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'UMGWidgetPreview' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'WorldPartitionHLODUtilities' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AdvancedRenamer' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AutomationUtils' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'BackChannel' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ChaosSolverPlugin' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'ChaosNiagara' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ChaosUserDataPT' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ChaosEditor' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'CharacterAI' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ChaosCaching' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'Dataflow' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'EditorDataStorage' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'EditorPerformance' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'EditorTelemetry' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'Fracture' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'GeometryFlow' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'GeometryCollectionPlugin' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'LocalizableMessage' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'MeshModelingToolsetExp' had been unloaded. Reloading on-demand took 0.24ms
+LogConfig: Branch 'LowLevelNetTrace' had been unloaded. Reloading on-demand took 0.20ms
+LogConfig: Branch 'NFORDenoise' had been unloaded. Reloading on-demand took 0.16ms
+LogConfig: Branch 'PlanarCut' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'PlatformCrypto' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'SkeletalReduction' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'PythonScriptPlugin' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'StudioTelemetry' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'ActorSequence' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'LevelSequenceEditor' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'TemplateSequence' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'NNEDenoiser' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'LauncherChunkInstaller' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'SequencerScripting' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'NNERuntimeORT' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AndroidDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'AndroidMoviePlayer' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'AndroidPermission' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ActorLayerUtilities' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AssetTags' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AndroidFileServer' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ArchVisCharacter' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AppleImageUtils' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AudioCapture' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AppleMoviePlayer' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AudioWidgets' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'CableComponent' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ComputeFramework' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AudioSynesthesia' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'CustomMeshComponent' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'ExampleDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'GeometryProcessing' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ChunkDownloader' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'GooglePAD' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'GoogleCloudMessaging' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'InputDebugging' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'GeometryCache' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'IOSDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'LocationServicesBPLibrary' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'LinuxDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'MeshModelingToolset' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'MsQuic' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'MobilePatchingUtils' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ProceduralMeshComponent' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'PropertyAccessEditor' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'SoundFields' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ResonanceAudio' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'SignificanceManager' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'WaveTable' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'WebMMoviePlayer' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'WindowsDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'WindowsMoviePlayer' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'SQLiteCore' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'OnlineSubsystemGooglePlay' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'LightMixer' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ObjectMixer' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'XInputDevice' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'ConcertMain' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'PortableObjectFileDataSource' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'ContentBrowserFileDataSource' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'ContentBrowserClassDataSource' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'OnlineSubsystemIOS' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'BaseCharacterFXEditor' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'ContentBrowserAssetDataSource' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'SkeletalMeshModelingTools' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'ConcertSyncClient' had been unloaded. Reloading on-demand took 0.13ms
+>>>>>>> Stashed changes
 LogConfig: Branch 'FMODStudio' had been unloaded. Reloading on-demand took 0.13ms
 LogConfig: Branch 'FMODStudioNiagara' had been unloaded. Reloading on-demand took 0.13ms
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC.
@@ -548,6 +940,7 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable created
 LogConfig: Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
 LogConfig: Set CVar [[r.Nanite.Streaming.AsyncCompute:0	; Temporary workaround for Nanite geometry corruption (FORT-805141)]]
+<<<<<<< Updated upstream
 [2026.04.24-21.26.46:891][  0]LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - dummy variable created
 [2026.04.24-21.26.46:891][  0]LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dummy variable created
 [2026.04.24-21.26.46:891][  0]LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
@@ -3355,3 +3748,1086 @@ Rescued: 0
 [2026.04.24-21.47.26:190][196]LogD3D12RHI: ~FD3D12DynamicRHI
 [2026.04.24-21.47.26:249][196]LogExit: Exiting.
 [2026.04.24-21.47.26:273][196]Log file closed, 04/24/26 17:47:26
+=======
+LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - dummy variable created
+LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.DynamicRes.DynamicFrameTime:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.VSync:0]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.GPUCrashDebugging:0]]
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.ReflectionMethod:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.GenerateMeshDistanceFields:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.DynamicGlobalIlluminationMethod:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.Shadow.Virtual.Enable:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.AllowStaticLighting:0]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.SkinCache.CompileShaders:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.RayTracing:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.DefaultFeature.LocalExposure.HighlightContrastScale:0.8]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.DefaultFeature.LocalExposure.ShadowContrastScale:0.8]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.CustomDepth:3]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.Shaders.RemoveUnusedInterpolators:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2026.04.25-02.26.53:239][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[s.AsyncLoadingThreadEnabled:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[s.EventDrivenLoaderEnabled:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[s.UseBackgroundLevelStreaming:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[s.FlushStreamingOnExit:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[gc.FlushStreamingOnGC:0]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[gc.AllowParallelGC:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[gc.MaxObjectsInEditor:25165824]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[gc.CreateGCClusters:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[gc.MinGCClusterSize:5]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[gc.AssetClustreringEnabled:0]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[gc.ActorClusteringEnabled:0]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[gc.VerifyUObjectsAreNotFGCObjects:0]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Set CVar [[gc.GarbageEliminationEnabled:1]]
+[2026.04.25-02.26.53:239][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:2]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[DefaultASTCQualityBySizeHQ:4]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2026.04.25-02.26.53:239][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:AmbientSound]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.MaterialEditor.LWCTruncateMode]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.Mobile.DBuffer]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2026.04.25-02.26.53:240][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2026.04.25-02.26.53:241][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.TSR.ReprojectionField:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.TSR.Resurrection:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.AOQuality:2]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ShortRangeAO.HardwareRayTracing:0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.MaxRoughnessToEvaluateRoughSpecularForFoliage:0.8]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapMode:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.MinWeight:0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.EyeAdaptationQuality:2]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2026.04.25-02.26.53:241][  0]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.DetailMode:3]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[fx.Niagara.QualityLevel:3]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.Refraction.OffsetQuality:1]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:1]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:512]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:512]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2026.04.25-02.26.53:242][  0]LogConfig: Applying CVar settings from Section [LandscapeQuality@3] File [Scalability]
+[2026.04.25-02.26.53:243][  0]LogRHI: Using Default RHI: D3D12
+[2026.04.25-02.26.53:243][  0]LogRHI: Using Highest Feature Level of D3D12: SM6
+[2026.04.25-02.26.53:243][  0]LogRHI: Loading RHI module D3D12RHI
+[2026.04.25-02.26.53:247][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2026.04.25-02.26.53:247][  0]LogRHI: Checking if RHI D3D12 with Feature Level SM6 is supported by your system.
+[2026.04.25-02.26.53:388][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 4080 SUPER (VendorId: 10de, DeviceId: 2702, SubSysId: 89621043, Revision: 00a1
+[2026.04.25-02.26.53:388][  0]LogD3D12RHI:   Max supported Feature Level 12_2, shader model 6.7, binding tier 3, wave ops supported, atomic64 supported
+[2026.04.25-02.26.53:388][  0]LogD3D12RHI:   Adapter has 16047MB of dedicated video memory, 0MB of dedicated system memory, and 16265MB of shared system memory, 1 output[s]
+[2026.04.25-02.26.53:388][  0]LogD3D12RHI:   Driver Version: 591.86 (internal:32.0.15.9186, unified:591.86)
+[2026.04.25-02.26.53:388][  0]LogD3D12RHI:      Driver Date: 1-20-2026
+[2026.04.25-02.26.53:498][  0]LogD3D12RHI: Intel Extensions Framework not supported by driver. Please check if a driver update is available.
+[2026.04.25-02.26.53:505][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 770 (VendorId: 8086, DeviceId: a780, SubSysId: d0001458, Revision: 0004
+[2026.04.25-02.26.53:505][  0]LogD3D12RHI:   Max supported Feature Level 12_1, shader model 6.7, binding tier 3, wave ops supported, atomic64 unsupported
+[2026.04.25-02.26.53:505][  0]LogD3D12RHI:   Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 16265MB of shared system memory, 0 output[s]
+[2026.04.25-02.26.53:505][  0]LogD3D12RHI:   Driver Version: 32.0.101.6129 (internal:32.0.101.6129, unified:101.6129)
+[2026.04.25-02.26.53:505][  0]LogD3D12RHI:      Driver Date: 10-18-2024
+[2026.04.25-02.26.53:509][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (VendorId: 1414, DeviceId: 008c, SubSysId: 0000, Revision: 0000
+[2026.04.25-02.26.53:509][  0]LogD3D12RHI:   Max supported Feature Level 12_1, shader model 6.2, binding tier 3, wave ops supported, atomic64 unsupported
+[2026.04.25-02.26.53:509][  0]LogD3D12RHI:   Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16265MB of shared system memory, 0 output[s]
+[2026.04.25-02.26.53:509][  0]LogD3D12RHI: DirectX Agility SDK runtime found.
+[2026.04.25-02.26.53:509][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2026.04.25-02.26.53:509][  0]LogRHI: RHI D3D12 with Feature Level SM6 is supported and will be used.
+[2026.04.25-02.26.53:509][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2026.04.25-02.26.53:509][  0]LogHAL: Display: Platform has ~ 32 GB [34110816256 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2026.04.25-02.26.53:509][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2026.04.25-02.26.53:509][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.04.25-02.26.53:509][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[UI.SlateSDFText.RasterizationMode:Bitmap -> Msdf]]
+[2026.04.25-02.26.53:509][  0]LogDeviceProfileManager: Pushing Device Profile CVar: [[UI.SlateSDFText.ResolutionLevel:2 -> 2]]
+[2026.04.25-02.26.53:509][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2026.04.25-02.26.53:510][  0]LogConfig: Set CVar [[r.DumpShaderDebugInfo:2]]
+[2026.04.25-02.26.53:510][  0]LogConfig: Set CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2026.04.25-02.26.53:510][  0]LogConfig: Set CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2026.04.25-02.26.53:510][  0]LogConfig: CVar [[ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0]] deferred - dummy variable created
+[2026.04.25-02.26.53:510][  0]LogConfig: CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
+[2026.04.25-02.26.53:510][  0]LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+[2026.04.25-02.26.53:510][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2026.04.25-02.26.53:510][  0]LogConfig: Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
+[2026.04.25-02.26.53:510][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Saved/Config/WindowsEditor/Editor.ini]
+[2026.04.25-02.26.53:510][  0]LogInit: Computer: DESKTOP-BSNR51E
+[2026.04.25-02.26.53:510][  0]LogInit: User: Kayden
+[2026.04.25-02.26.53:510][  0]LogInit: CPU Page size=4096, Cores=16
+[2026.04.25-02.26.53:510][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2026.04.25-02.26.53:676][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
+[2026.04.25-02.26.53:676][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx) Virtual=36.5GB
+[2026.04.25-02.26.53:676][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2026.04.25-02.26.53:676][  0]LogMemory: Process Physical Memory: 742.13 MB used, 784.75 MB peak
+[2026.04.25-02.26.53:676][  0]LogMemory: Process Virtual Memory: 801.10 MB used, 818.93 MB peak
+[2026.04.25-02.26.53:676][  0]LogMemory: Physical Memory: 14690.01 MB used,  17840.60 MB free, 32530.61 MB total
+[2026.04.25-02.26.53:676][  0]LogMemory: Virtual Memory: 18162.76 MB used,  19231.85 MB free, 37394.61 MB total
+[2026.04.25-02.26.53:676][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2026.04.25-02.26.53:679][  0]LogWindows: WindowsPlatformFeatures enabled
+[2026.04.25-02.26.53:685][  0]LogChaosDD: Chaos Debug Draw Startup
+[2026.04.25-02.26.53:685][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2026.04.25-02.26.53:685][  0]LogInit: Using OS detected language (en-US).
+[2026.04.25-02.26.53:685][  0]LogInit: Using OS detected locale (en-US).
+[2026.04.25-02.26.53:690][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2026.04.25-02.26.53:690][  0]LogInit: Setting process to per monitor DPI aware
+[2026.04.25-02.26.53:919][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2026.04.25-02.26.53:919][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2026.04.25-02.26.53:919][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.04.25-02.26.53:928][  0]LogSlate: New Slate User Created. Platform User Id 0, User Index 0, Is Virtual User: 0
+[2026.04.25-02.26.53:928][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2026.04.25-02.26.54:005][  0]LogRHI: Using Default RHI: D3D12
+[2026.04.25-02.26.54:005][  0]LogRHI: Using Highest Feature Level of D3D12: SM6
+[2026.04.25-02.26.54:005][  0]LogRHI: Loading RHI module D3D12RHI
+[2026.04.25-02.26.54:005][  0]LogRHI: Checking if RHI D3D12 with Feature Level SM6 is supported by your system.
+[2026.04.25-02.26.54:005][  0]LogRHI: RHI D3D12 with Feature Level SM6 is supported and will be used.
+[2026.04.25-02.26.54:005][  0]LogD3D12RHI: Display: Creating D3D12 RHI with Max Feature Level SM6
+[2026.04.25-02.26.54:006][  0]LogWindows: Attached monitors:
+[2026.04.25-02.26.54:006][  0]LogWindows:     resolution: 3840x2160, work area: (0, 0) -> (3840, 2088), device: '\\.\DISPLAY1' [PRIMARY]
+[2026.04.25-02.26.54:006][  0]LogWindows: Found 1 attached monitors.
+[2026.04.25-02.26.54:006][  0]LogWindows: Gathering driver information using Windows Setup API
+[2026.04.25-02.26.54:006][  0]LogRHI: RHI Adapter Info:
+[2026.04.25-02.26.54:006][  0]LogRHI:             Name: NVIDIA GeForce RTX 4080 SUPER
+[2026.04.25-02.26.54:006][  0]LogRHI:   Driver Version: 591.86 (internal:32.0.15.9186, unified:591.86)
+[2026.04.25-02.26.54:006][  0]LogRHI:      Driver Date: 1-20-2026
+[2026.04.25-02.26.54:006][  0]LogD3D12RHI:     GPU DeviceId: 0x2702 (for the marketing name, search the web for "GPU Device Id")
+[2026.04.25-02.26.54:006][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2026.04.25-02.26.54:068][  0]LogNvidiaAftermath: Aftermath initialized
+[2026.04.25-02.26.54:068][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2026.04.25-02.26.54:110][  0]LogNvidiaAftermath: Aftermath enabled. Active feature flags: 
+[2026.04.25-02.26.54:110][  0]LogNvidiaAftermath:  - Feature: EnableResourceTracking
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: ID3D12Device8 is supported.
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: ID3D12Device9 is supported.
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: ID3D12Device10 is supported.
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: ID3D12Device11 is supported.
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: ID3D12Device12 is supported.
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: Bindless resources are supported
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: Stencil ref from pixel shader is not supported
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: Raster order views are supported
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: Wave Operations are supported (wave size: min=32 max=32).
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 and bindless resources are supported.
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2026.04.25-02.26.54:110][  0]LogD3D12RHI: Work Graphs are supported
+[2026.04.25-02.26.54:162][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (Queue: 0x00000BF4470CE300)
+[2026.04.25-02.26.54:162][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (Queue: 0x00000BF4470CE580)
+[2026.04.25-02.26.54:162][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for DiagnosticBuffer (Queue: 0x00000BF4470CE800)
+[2026.04.25-02.26.54:162][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2026.04.25-02.26.54:162][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2026.04.25-02.26.54:163][  0]LogRHI: Texture pool is 9625 MB (70% of 13751 MB)
+[2026.04.25-02.26.54:163][  0]LogD3D12RHI: Async texture creation enabled
+[2026.04.25-02.26.54:163][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2026.04.25-02.26.54:169][  0]LogVRS: Current RHI supports per-draw and screenspace Variable Rate Shading
+[2026.04.25-02.26.54:171][  0]LogInit: Initializing FReadOnlyCVARCache
+[2026.04.25-02.26.54:177][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/MyProject2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/MyProject2.uproject"  -platform=all'
+[2026.04.25-02.26.54:177][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/MyProject2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/MyProject2.uproject"  -platform=all" ]
+[2026.04.25-02.26.54:196][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatASTC
+[2026.04.25-02.26.54:196][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatDXT
+[2026.04.25-02.26.54:196][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatETC2
+[2026.04.25-02.26.54:196][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+[2026.04.25-02.26.54:196][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatUncompressed
+[2026.04.25-02.26.54:196][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.12
+[2026.04.25-02.26.54:196][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.12.dll
+[2026.04.25-02.26.54:197][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2026.04.25-02.26.54:197][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatOodle
+[2026.04.25-02.26.54:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2026.04.25-02.26.54:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2026.04.25-02.26.54:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2026.04.25-02.26.54:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2026.04.25-02.26.54:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2026.04.25-02.26.54:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2026.04.25-02.26.54:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2026.04.25-02.26.54:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2026.04.25-02.26.54:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2026.04.25-02.26.54:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2026.04.25-02.26.54:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2026.04.25-02.26.54:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2026.04.25-02.26.54:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2026.04.25-02.26.54:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2026.04.25-02.26.54:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2026.04.25-02.26.54:252][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2026.04.25-02.26.54:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2026.04.25-02.26.54:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2026.04.25-02.26.54:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2026.04.25-02.26.54:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2026.04.25-02.26.54:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacEditor'
+[2026.04.25-02.26.54:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2026.04.25-02.26.54:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2026.04.25-02.26.54:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2026.04.25-02.26.54:297][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2026.04.25-02.26.54:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2026.04.25-02.26.54:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2026.04.25-02.26.54:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2026.04.25-02.26.54:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2026.04.25-02.26.54:314][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2026.04.25-02.26.54:347][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   SF_METAL
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   SF_METAL_SM6
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   SF_METAL_SIM
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   VVM_1_0
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2026.04.25-02.26.54:349][  0]LogTargetPlatformManager:   SF_VULKAN_SM6
+[2026.04.25-02.26.54:349][  0]LogRendererCore: Ray tracing is enabled (dynamic). Reason: r.RayTracing=1 and r.RayTracing.EnableOnDemand=1.
+[2026.04.25-02.26.54:349][  0]LogRendererCore: Ray tracing shaders are enabled.
+[2026.04.25-02.26.54:351][  0]LogDerivedDataCache: Display: Memory: Max Cache Size: -1 MB
+[2026.04.25-02.26.54:352][  0]LogDerivedDataCache: FDerivedDataBackendGraph: Pak pak cache file ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2026.04.25-02.26.54:352][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2026.04.25-02.26.54:352][  0]LogDerivedDataCache: FDerivedDataBackendGraph: CompressedPak pak cache file ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2026.04.25-02.26.54:352][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2026.04.25-02.26.54:395][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1559 MiB)
+[2026.04.25-02.26.54:395][  0]LogDerivedDataCache: FDerivedDataBackendGraph: EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2026.04.25-02.26.54:395][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2026.04.25-02.26.54:395][  0]LogZenServiceInstance: Found Zen config default=C:/Users/Kayden/AppData/Local/UnrealEngine/Common/Zen/Data
+[2026.04.25-02.26.54:395][  0]LogZenServiceInstance: InTree version at 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/Win64/zenserver.exe' is '5.5.7-202409112143-windows-x64-release-f523a01'
+[2026.04.25-02.26.54:396][  0]LogZenServiceInstance: Installed version at 'C:/Users/Kayden/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' is '5.5.7-202409112143-windows-x64-release-f523a01'
+[2026.04.25-02.26.54:396][  0]LogZenServiceInstance: No current process using the data dir found, launching a new instance
+[2026.04.25-02.26.54:396][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Kayden/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Kayden/AppData/Local/UnrealEngine/Common/Zen/Install', data dir 'C:/Users/Kayden/AppData/Local/UnrealEngine/Common/Zen/Data', args '--port 8558 --data-dir "C:\Users\Kayden\AppData\Local\UnrealEngine\Common\Zen\Data" --http asio --gc-cache-duration-seconds 1209600 --gc-interval-seconds 21600 --gc-low-diskspace-threshold 2147483648 --quiet --http-forceloopback --owner-pid 10916 --child-id Zen_10916_Startup'
+[2026.04.25-02.26.54:486][  0]LogZenServiceInstance: Display: Unreal Zen Storage Server HTTP service at [::1]:8558 status: OK!.
+[2026.04.25-02.26.54:486][  0]LogZenServiceInstance: Local ZenServer AutoLaunch initialization completed in 0.091 seconds
+[2026.04.25-02.26.54:487][  0]LogDerivedDataCache: Display: ZenLocal: Using ZenServer HTTP service at http://[::1]:8558/ with namespace ue.ddc status: OK!.
+[2026.04.25-02.26.54:492][  0]LogDerivedDataCache: C:/Users/Kayden/AppData/Local/UnrealEngine/Common/DerivedDataCache: Speed tests took 0.00 seconds.
+[2026.04.25-02.26.54:492][  0]LogDerivedDataCache: Display: C:/Users/Kayden/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.03ms. RandomReadSpeed=1326.04MBs, RandomWriteSpeed=262.63MBs. Assigned SpeedClass 'Local'
+[2026.04.25-02.26.54:493][  0]LogDerivedDataCache: Local: Using data cache path C:/Users/Kayden/AppData/Local/UnrealEngine/Common/DerivedDataCache: DeleteOnly
+[2026.04.25-02.26.54:493][  0]LogDerivedDataCache: ZenShared: Disabled because Host is set to 'None'
+[2026.04.25-02.26.54:493][  0]LogDerivedDataCache: Unable to find inner node ZenShared for hierarchy Hierarchy.
+[2026.04.25-02.26.54:493][  0]LogDerivedDataCache: Shared: Disabled because no path is configured.
+[2026.04.25-02.26.54:493][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2026.04.25-02.26.54:493][  0]LogDerivedDataCache: Cloud: Disabled because Host is set to 'None'
+[2026.04.25-02.26.54:493][  0]LogDerivedDataCache: Unable to find inner node Cloud for hierarchy Hierarchy.
+[2026.04.25-02.26.54:493][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/Shaders/WorkingDirectory/10916/).
+[2026.04.25-02.26.54:493][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kayden/AppData/Local/Temp/UnrealShaderWorkingDir/7305EFC74B12CE19C9DD1D9892A8457F/'.
+[2026.04.25-02.26.54:493][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2026.04.25-02.26.54:493][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 12 workers.
+[2026.04.25-02.26.54:494][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2026.04.25-02.26.54:494][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2026.04.25-02.26.54:918][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2026.04.25-02.26.55:354][  0]LogSlate: Using FreeType 2.10.0
+[2026.04.25-02.26.55:355][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2026.04.25-02.26.55:355][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png' error.
+[2026.04.25-02.26.55:355][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png
+[2026.04.25-02.26.55:356][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2026.04.25-02.26.55:356][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png
+[2026.04.25-02.26.55:356][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2026.04.25-02.26.55:356][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png
+[2026.04.25-02.26.55:371][  0]LogAssetRegistry: FAssetRegistry took 0.0037 seconds to start up
+[2026.04.25-02.26.55:372][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2026.04.25-02.26.55:377][  0]LogAssetRegistry: Display: AssetDataGatherer spent 0.001s loading caches ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/CachedAssetRegistry_*.bin.
+[2026.04.25-02.26.55:524][  0]LogStreaming: Display: FlushAsyncLoading(1): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.25-02.26.55:528][  0]LogTextureEncodingSettings: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2026.04.25-02.26.55:528][  0]LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2026.04.25-02.26.55:528][  0]LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2026.04.25-02.26.55:549][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64Editor not found.
+[2026.04.25-02.26.55:549][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64 not found.
+[2026.04.25-02.26.55:571][  0]LogDeviceProfileManager: Active device profile: [00000BF465B05600][00000BF465FE6000 66] WindowsEditor
+[2026.04.25-02.26.55:571][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2026.04.25-02.26.55:571][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, MinAllowed_Sdk=10.0.19041.0, MaxAllowed_Sdk=10.9.99999.0, Current_Sdk=10.0.26100.0, Allowed_AutoSdk=10.0.22621.0, Current_AutoSdk=, Flags="InstalledSdk_ValidVersionExists")
+[2026.04.25-02.26.55:575][  0]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/MyProject2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/TurnkeyReport_1.log" -log="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/TurnkeyLog_1.log" -project="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/MyProject2.uproject"  -Device=Win64@DESKTOP-BSNR51E'
+[2026.04.25-02.26.55:575][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/MyProject2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/TurnkeyReport_1.log" -log="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/TurnkeyLog_1.log" -project="C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/MyProject2.uproject"  -Device=Win64@DESKTOP-BSNR51E" -nocompile -nocompileuat ]
+[2026.04.25-02.26.55:610][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:610][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 18 to allow recursive sync load to finish
+[2026.04.25-02.26.55:610][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2026.04.25-02.26.55:610][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:610][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 19 to allow recursive sync load to finish
+[2026.04.25-02.26.55:610][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2026.04.25-02.26.55:610][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:611][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 20 to allow recursive sync load to finish
+[2026.04.25-02.26.55:611][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2026.04.25-02.26.55:611][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:611][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 21 to allow recursive sync load to finish
+[2026.04.25-02.26.55:611][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2026.04.25-02.26.55:611][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:612][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:612][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 23 to allow recursive sync load to finish
+[2026.04.25-02.26.55:612][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+[2026.04.25-02.26.55:612][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:612][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 24 to allow recursive sync load to finish
+[2026.04.25-02.26.55:612][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+[2026.04.25-02.26.55:612][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:612][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:612][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 26 to allow recursive sync load to finish
+[2026.04.25-02.26.55:612][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2026.04.25-02.26.55:612][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:612][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 27 to allow recursive sync load to finish
+[2026.04.25-02.26.55:612][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2026.04.25-02.26.55:612][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: WaitingForIo) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:614][  0]LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultDiffuse with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2026.04.25-02.26.55:614][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:614][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness has reached state ExportsDone > CreateLinkerLoadExports, releasing request 29 to allow recursive sync load to finish
+[2026.04.25-02.26.55:614][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness with requester package /Engine/EngineMaterials/DefaultPostProcessMaterial
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Flushing package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec has reached state ExportsDone > CreateLinkerLoadExports, releasing request 30 to allow recursive sync load to finish
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec with requester package /Engine/EngineMaterials/DefaultPostProcessMaterial
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Merging postload groups of package /Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultPostProcessMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 28 to allow recursive sync load to finish
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultPostProcessMaterial with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultPostProcessMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultPostProcessMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 31 to allow recursive sync load to finish
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultPostProcessMaterial with requester package /Engine/EngineMaterials/DefaultLightFunctionMaterial
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 25 to allow recursive sync load to finish
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultLightFunctionMaterial with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultLightFunctionMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultLightFunctionMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 32 to allow recursive sync load to finish
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultLightFunctionMaterial with requester package /Engine/EngineMaterials/DefaultDeferredDecalMaterial
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 22 to allow recursive sync load to finish
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultDeferredDecalMaterial with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Flushing package /Engine/EngineMaterials/DefaultDeferredDecalMaterial (state: ExportsDone) recursively from another package /Engine/EngineMaterials/WorldGridMaterial (state: CreateLinkerLoadExports) will result in a partially loaded package to avoid a deadlock.
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Package /Engine/EngineMaterials/DefaultDeferredDecalMaterial has reached state ExportsDone > CreateLinkerLoadExports, releasing request 33 to allow recursive sync load to finish
+[2026.04.25-02.26.55:615][  0]LogStreaming: Display: Merging postload groups of package /Engine/EngineMaterials/DefaultDeferredDecalMaterial with requester package /Engine/EngineMaterials/WorldGridMaterial
+[2026.04.25-02.26.55:743][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2026.04.25-02.26.55:743][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2026.04.25-02.26.55:743][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2026.04.25-02.26.55:743][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2026.04.25-02.26.55:743][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2026.04.25-02.26.55:971][  0]LogConfig: Branch 'PIEPreviewSettings' had been unloaded. Reloading on-demand took 0.96ms
+[2026.04.25-02.26.55:989][  0]LogConfig: Branch 'GameplayTagsList' had been unloaded. Reloading on-demand took 0.91ms
+[2026.04.25-02.26.55:999][  0]LogConfig: Branch 'TemplateDefs' had been unloaded. Reloading on-demand took 0.90ms
+[2026.04.25-02.26.56:001][  0]LogConfig: Branch 'TemplateCategories' had been unloaded. Reloading on-demand took 0.94ms
+[2026.04.25-02.26.56:128][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2026.04.25-02.26.56:128][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2026.04.25-02.26.56:133][  0]LogLiveCoding: Display: Starting LiveCoding
+[2026.04.25-02.26.56:133][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2026.04.25-02.26.56:133][  0]LogLiveCoding: Display: First instance in process group "UE_MyProject2_0xd4dec306", spawning console
+[2026.04.25-02.26.56:136][  0]LogLiveCoding: Display: Waiting for server
+[2026.04.25-02.26.56:151][  0]LogSlate: Border
+[2026.04.25-02.26.56:151][  0]LogSlate: BreadcrumbButton
+[2026.04.25-02.26.56:151][  0]LogSlate: Brushes.Title
+[2026.04.25-02.26.56:151][  0]LogSlate: Default
+[2026.04.25-02.26.56:151][  0]LogSlate: Icons.Save
+[2026.04.25-02.26.56:151][  0]LogSlate: Icons.Toolbar.Settings
+[2026.04.25-02.26.56:151][  0]LogSlate: ListView
+[2026.04.25-02.26.56:151][  0]LogSlate: SoftwareCursor_CardinalCross
+[2026.04.25-02.26.56:151][  0]LogSlate: SoftwareCursor_Grab
+[2026.04.25-02.26.56:151][  0]LogSlate: TableView.DarkRow
+[2026.04.25-02.26.56:151][  0]LogSlate: TableView.Row
+[2026.04.25-02.26.56:151][  0]LogSlate: TreeView
+[2026.04.25-02.26.56:202][  0]LogTurnkeySupport: Completed device detection: Code = 0
+[2026.04.25-02.26.56:210][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2026.04.25-02.26.56:212][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 1.271 ms
+[2026.04.25-02.26.56:220][  0]LogConfig: Branch 'Mass' had been unloaded. Reloading on-demand took 1.02ms
+[2026.04.25-02.26.56:232][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2026.04.25-02.26.56:232][  0]LogInit: XR: MultiViewport is Disabled
+[2026.04.25-02.26.56:232][  0]LogInit: XR: Mobile Multiview is Disabled
+[2026.04.25-02.26.56:233][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-BSNR51E: (Name=DESKTOP-BSNR51E, Type=Computer, Status=Valid, MinAllowed=10.0.19041.0, MaxAllowed=, Current=10.0.22631.0, Flags="Device_InstallSoftwareValid")
+[2026.04.25-02.26.56:257][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 2C88FD09AEB246F4800000000000E600 | Instance: 5EE9A5444110F6DEA5C2E68A25964882 (DESKTOP-BSNR51E-10916).
+[2026.04.25-02.26.56:504][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2026.04.25-02.26.56:508][  0]LogUdpMessaging: Display: Work queue size set to 1024.
+[2026.04.25-02.26.56:508][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2026.04.25-02.26.56:508][  0]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:59891'.
+[2026.04.25-02.26.56:510][  0]LogUdpMessaging: Display: Added local interface '172.16.1.183' to multicast group '230.0.0.1:6666'
+[2026.04.25-02.26.56:607][  0]LogConfig: Branch 'TranslationPickerSettings' had been unloaded. Reloading on-demand took 1.04ms
+[2026.04.25-02.26.56:703][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2026.04.25-02.26.56:859][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2026.04.25-02.26.56:859][  0]LogNNERuntimeORT: 0: Intel(R) UHD Graphics 770 (Compute, Graphics)
+[2026.04.25-02.26.56:859][  0]LogNNERuntimeORT: 1: NVIDIA GeForce RTX 4080 SUPER (Compute, Graphics)
+[2026.04.25-02.26.56:859][  0]LogNNERuntimeORT: 2: Microsoft Basic Render Driver (Compute, Graphics)
+[2026.04.25-02.26.56:859][  0]LogNNERuntimeORT: No NPU adapter found!
+[2026.04.25-02.26.56:945][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2026.04.25-02.26.56:945][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2026.04.25-02.26.56:957][  0]LogMetaSound: MetaSound Engine Initialized
+[2026.04.25-02.26.57:036][  0]LogFMOD: FFMODStudioModule startup
+[2026.04.25-02.26.57:036][  0]LogFMOD: Lib path = '../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Plugins/FMODStudio/Binaries'
+[2026.04.25-02.26.57:036][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Plugins/FMODStudio/Binaries/Win64/fmodL.dll
+[2026.04.25-02.26.57:037][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+[2026.04.25-02.26.57:040][  0]LogFMOD: Display: Loaded bank lookup
+[2026.04.25-02.26.57:040][  0]LogFMOD: Display: Loaded asset lookup
+[2026.04.25-02.26.57:048][  0]LogFMOD: Default sample rate = 48000
+[2026.04.25-02.26.57:048][  0]LogFMOD: System sample rate = 48000
+[2026.04.25-02.26.57:048][  0]LogFMOD: Matching system sample rate 48000
+[2026.04.25-02.26.57:048][  0]LogFMOD: CallbackHandler not set.
+[2026.04.25-02.26.57:058][  0]LogFMOD: Default sample rate = 48000
+[2026.04.25-02.26.57:058][  0]LogFMOD: System sample rate = 48000
+[2026.04.25-02.26.57:058][  0]LogFMOD: Matching system sample rate 48000
+[2026.04.25-02.26.57:058][  0]LogFMOD: CallbackHandler not set.
+[2026.04.25-02.26.57:136][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2026.04.25-02.26.57:136][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2026.04.25-02.26.57:235][  0]SourceControl: Revision control is disabled
+[2026.04.25-02.26.57:245][  0]SourceControl: Revision control is disabled
+[2026.04.25-02.26.57:265][  0]LogConfig: Branch 'Crypto' had been unloaded. Reloading on-demand took 0.88ms
+[2026.04.25-02.26.57:275][  0]LogConfig: Branch 'ObjectMixerSerializedData' had been unloaded. Reloading on-demand took 0.92ms
+[2026.04.25-02.26.57:474][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2026.04.25-02.26.57:476][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2026.04.25-02.26.57:495][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.04.25-02.26.57:495][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.04.25-02.26.57:536][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/glf/resources/plugInfo.json'
+[2026.04.25-02.26.57:537][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hgiGL/resources/plugInfo.json'
+[2026.04.25-02.26.57:537][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdAbc/resources/plugInfo.json'
+[2026.04.25-02.26.57:537][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMtlx/resources/plugInfo.json'
+[2026.04.25-02.26.57:538][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hd/resources/plugInfo.json'
+[2026.04.25-02.26.57:538][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImaging/resources/plugInfo.json'
+[2026.04.25-02.26.57:538][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdGp/resources/plugInfo.json'
+[2026.04.25-02.26.57:538][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRender/resources/plugInfo.json'
+[2026.04.25-02.26.57:538][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdrGlslfx/resources/plugInfo.json'
+[2026.04.25-02.26.57:540][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdf/resources/plugInfo.json'
+[2026.04.25-02.26.57:540][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMedia/resources/plugInfo.json'
+[2026.04.25-02.26.57:540][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdSt/resources/plugInfo.json'
+[2026.04.25-02.26.57:541][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVol/resources/plugInfo.json'
+[2026.04.25-02.26.57:541][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdLux/resources/plugInfo.json'
+[2026.04.25-02.26.57:541][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRi/resources/plugInfo.json'
+[2026.04.25-02.26.57:542][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdx/resources/plugInfo.json'
+[2026.04.25-02.26.57:542][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/plugInfo.json'
+[2026.04.25-02.26.57:542][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdPhysics/resources/plugInfo.json'
+[2026.04.25-02.26.57:542][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShaders/resources/plugInfo.json'
+[2026.04.25-02.26.57:543][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ndr/resources/plugInfo.json'
+[2026.04.25-02.26.57:543][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdHydra/resources/plugInfo.json'
+[2026.04.25-02.26.57:543][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRiPxrImaging/resources/plugInfo.json'
+[2026.04.25-02.26.57:544][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkelImaging/resources/plugInfo.json'
+[2026.04.25-02.26.57:544][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVolImaging/resources/plugInfo.json'
+[2026.04.25-02.26.57:544][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ar/resources/plugInfo.json'
+[2026.04.25-02.26.57:544][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdStorm/resources/plugInfo.json'
+[2026.04.25-02.26.57:545][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdGeom/resources/plugInfo.json'
+[2026.04.25-02.26.57:545][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShade/resources/plugInfo.json'
+[2026.04.25-02.26.57:546][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdUI/resources/plugInfo.json'
+[2026.04.25-02.26.57:546][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImagingGL/resources/plugInfo.json'
+[2026.04.25-02.26.57:546][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProcImaging/resources/plugInfo.json'
+[2026.04.25-02.26.57:546][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProc/resources/plugInfo.json'
+[2026.04.25-02.26.57:547][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hio/resources/plugInfo.json'
+[2026.04.25-02.26.57:547][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkel/resources/plugInfo.json'
+[2026.04.25-02.26.57:547][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/codegenTemplates/plugInfo.json'
+[2026.04.25-02.26.57:584][  0]LogCollectionManager: Loaded 0 collections in 0.001590 seconds
+[2026.04.25-02.26.57:585][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Saved/Collections/' took 0.00s
+[2026.04.25-02.26.57:587][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Content/Developers/Kayden/Collections/' took 0.00s
+[2026.04.25-02.26.57:588][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Content/Collections/' took 0.00s
+[2026.04.25-02.26.57:639][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png' error.
+[2026.04.25-02.26.57:639][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png
+[2026.04.25-02.26.57:640][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2026.04.25-02.26.57:640][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2026.04.25-02.26.57:640][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png
+[2026.04.25-02.26.57:640][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png
+[2026.04.25-02.26.57:650][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2026.04.25-02.26.57:650][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2026.04.25-02.26.57:660][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.17.0-39599718 booting at 2026-04-25T02:26:57.660Z using C
+[2026.04.25-02.26.57:661][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.22621.5624.64bit, ClientId=xyza7891REBVsEqSJRRNXmlS7EQHM459, ProductId=86f32f1151354e7cb39c12f8ab2c22a3, SandboxId=a01927f7421a4d4995673fe30ef46945, DeploymentId=a652a72ea1664dcab3a467891eea5f30, ProductName=MyProject2, ProductVersion=++UE5+Release-5.5-CL-40574608, IsServer=false, Flags=DisableOverlay]
+[2026.04.25-02.26.57:661][  0]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.04.25-02.26.57:661][  0]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2026.04.25-02.26.57:665][  0]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2026.04.25-02.26.57:665][  0]LogEOSSDK: LogEOS: SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+[2026.04.25-02.26.57:665][  0]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Online
+[2026.04.25-02.26.57:665][  0]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.000035
+[2026.04.25-02.26.57:685][  0]LogUObjectArray: 43765 objects as part of root set at end of initial load.
+[2026.04.25-02.26.57:685][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.04.25-02.26.57:693][  0]LogStreaming: Display: AsyncLoading2 - NotifyRegistrationComplete: Registered 36432 public script object entries (987.44 KB)
+[2026.04.25-02.26.57:693][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: false, IsInitialLoad: false
+[2026.04.25-02.26.57:786][  0]LogEngine: Initializing Engine...
+[2026.04.25-02.26.57:788][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2026.04.25-02.26.57:790][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2026.04.25-02.26.57:862][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2026.04.25-02.26.57:872][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2026.04.25-02.26.57:883][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2026.04.25-02.26.57:883][  0]LogInit: Texture streaming: Enabled
+[2026.04.25-02.26.57:890][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.5.4-40574608+++UE5+Release-5.5
+[2026.04.25-02.26.57:893][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2026.04.25-02.26.57:900][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2026.04.25-02.26.57:900][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2026.04.25-02.26.57:901][  0]LogAudio: Display: Audio Device Manager Initialized
+[2026.04.25-02.26.57:901][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2026.04.25-02.26.57:901][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.25-02.26.57:901][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.25-02.26.57:901][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.25-02.26.57:901][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.25-02.26.57:901][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.25-02.26.57:901][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.25-02.26.57:901][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.25-02.26.57:901][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.25-02.26.57:901][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.25-02.26.57:901][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.25-02.26.57:901][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.25-02.26.57:905][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.25-02.26.57:921][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G733 Gaming Headset)
+[2026.04.25-02.26.57:921][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.25-02.26.57:922][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.25-02.26.57:922][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.25-02.26.57:923][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.04.25-02.26.57:923][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.04.25-02.26.57:924][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.04.25-02.26.57:924][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2026.04.25-02.26.57:924][  0]LogInit: FAudioDevice initialized with ID 1.
+[2026.04.25-02.26.57:924][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.04.25-02.26.57:924][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2026.04.25-02.26.57:930][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2026.04.25-02.26.57:932][  0]LogInit: Undo buffer set to 256 MB
+[2026.04.25-02.26.57:932][  0]LogInit: Transaction tracking system initialized
+[2026.04.25-02.26.57:981][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.25-02.26.58:020][  0]LogConfig: Branch 'LocalizationServiceSettings' had been unloaded. Reloading on-demand took 1.04ms
+[2026.04.25-02.26.58:023][  0]LocalizationService: Localization service is disabled
+[2026.04.25-02.26.58:033][  0]LogTimingProfiler: Initialize
+[2026.04.25-02.26.58:033][  0]LogTimingProfiler: OnSessionChanged
+[2026.04.25-02.26.58:033][  0]LoadingProfiler: Initialize
+[2026.04.25-02.26.58:033][  0]LoadingProfiler: OnSessionChanged
+[2026.04.25-02.26.58:033][  0]LogNetworkingProfiler: Initialize
+[2026.04.25-02.26.58:033][  0]LogNetworkingProfiler: OnSessionChanged
+[2026.04.25-02.26.58:033][  0]LogMemoryProfiler: Initialize
+[2026.04.25-02.26.58:033][  0]LogMemoryProfiler: OnSessionChanged
+[2026.04.25-02.26.58:147][  0]LogFMOD: FFMODStudioEditorModule startup
+[2026.04.25-02.26.58:175][  0]LogPython: Using Python 3.11.8
+[2026.04.25-02.26.58:222][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Content/' took 0.08s
+[2026.04.25-02.26.58:811][  0]LogPython: Display: No enabled plugins with python dependencies found, skipping
+[2026.04.25-02.26.58:825][  0]LogRenderer: Requested compilation of Path Tracing RTPSOs (1 permutations).
+[2026.04.25-02.26.58:878][  0]LogStreaming: Warning: Failed to read file 'Common/Selector.png' error.
+[2026.04.25-02.26.58:878][  0]LogSlate: Could not find file for Slate resource: Common/Selector.png
+[2026.04.25-02.26.58:888][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2026.04.25-02.26.58:910][  0]LogEditorDataStorage: Initializing
+[2026.04.25-02.26.58:910][  0]LogEditorDataStorage: Initialized
+[2026.04.25-02.26.58:927][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2026.04.25-02.26.58:928][  0]SourceControl: Revision control is disabled
+[2026.04.25-02.26.58:928][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.579
+[2026.04.25-02.26.58:929][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Content/TopDown/Maps/WorldMainMenuDUPE.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.25-02.26.58:930][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.04.25-02.26.58:930][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.25-02.26.58:936][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.25-02.26.58:937][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.04.25-02.26.59:060][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2026.04.25-02.26.59:508][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Kayden\Documents\GitHub\GloryForGoblins\MyProject2\Content\BLUEPRINTS\SpawnGoblins\BP_BasicGoblin.uasset: [Compiler] Cast To ABP_goblin  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2026.04.25-02.26.59:512][  0]LogBlueprint: Error: [AssetLog] C:\Users\Kayden\Documents\GitHub\GloryForGoblins\MyProject2\Content\BLUEPRINTS\SpawnGoblins\BP_BasicGoblin.uasset: [Compiler] This blueprint (self) is not a ABP_goblin_C, therefore ' Target ' must have a connection.
+[2026.04.25-02.26.59:567][  0]LogBlueprint: Error: [AssetLog] C:\Users\Kayden\Documents\GitHub\GloryForGoblins\MyProject2\Content\BLUEPRINTS\SpawnGoblins\BP_BasicGoblin.uasset: [Compiler] Variable node  Set ABP_IsKnockOut?  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.04.25-02.26.59:637][  0]LogBlueprint: Warning: [AssetLog] C:\Users\Kayden\Documents\GitHub\GloryForGoblins\MyProject2\Content\BLUEPRINTS\Knight\Basic_Knight.uasset: [Compiler] Set Will_Die  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2026.04.25-02.26.59:841][  0]LogAssetRegistry: Display: Asset registry cache written as 58.4 MiB to ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Intermediate/CachedAssetRegistry_*.bin
+[2026.04.25-02.27.00:010][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'WorldMainMenuDUPE'.
+[2026.04.25-02.27.00:010][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world WorldMainMenuDUPE
+[2026.04.25-02.27.00:066][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.25-02.27.00:084][  0]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2026.04.25-02.27.00:216][  0]LogMaterial: Display: Material /Game/Materials/CurvedMaterials/woodDark_curved.woodDark_curved needed to have new flag set bUsedWithNanite !
+[2026.04.25-02.27.00:227][  0]MapCheck: Warning: woodDark_curved Material /Game/Materials/CurvedMaterials/woodDark_curved.woodDark_curved was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2026.04.25-02.27.00:230][  0]LogMaterial: Display: Material /Game/Materials/CurvedMaterials/Rocks_curved.Rocks_curved needed to have new flag set bUsedWithNanite !
+[2026.04.25-02.27.00:238][  0]MapCheck: Warning: Rocks_curved Material /Game/Materials/CurvedMaterials/Rocks_curved.Rocks_curved was missing the usage flag bUsedWithNanite. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2026.04.25-02.27.00:248][  0]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.16s
+[2026.04.25-02.27.00:273][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.04.25-02.27.00:274][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.25-02.27.00:274][  0]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0.065ms to complete.
+[2026.04.25-02.27.00:306][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.957
+[2026.04.25-02.27.00:431][  0]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.04.25-02.27.00:450][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2026.04.25-02.27.00:450][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2026.04.25-02.27.00:450][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2026.04.25-02.27.00:491][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.25-02.27.00:525][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.25-02.27.00:565][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.25-02.27.00:616][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.25-02.27.00:638][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.25-02.27.00:638][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2026.04.25-02.27.00:638][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.25-02.27.00:638][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2026.04.25-02.27.00:638][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.25-02.27.00:638][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2026.04.25-02.27.00:638][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.25-02.27.00:640][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2026.04.25-02.27.00:644][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.25-02.27.00:645][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2026.04.25-02.27.00:645][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.25-02.27.00:645][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2026.04.25-02.27.00:645][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.25-02.27.00:645][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2026.04.25-02.27.00:646][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.25-02.27.00:646][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2026.04.25-02.27.00:646][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.25-02.27.00:647][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2026.04.25-02.27.00:647][  0]LogPakFile: Initializing PakPlatformFile
+[2026.04.25-02.27.00:647][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2026.04.25-02.27.00:874][  0]LogSlate: Took 0.000515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.04.25-02.27.00:877][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.04.25-02.27.00:878][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.04.25-02.27.00:912][  0]LogNNEDenoiser: ApplySettings: bDenoiserEnabled 1
+[2026.04.25-02.27.00:926][  0]LogNNEDenoiser: Loaded input mapping from NNEDIM_ColorAlbedoNormal_Alpha
+[2026.04.25-02.27.00:927][  0]LogNNEDenoiser: Loaded output mapping from NNEDOM_Output_Alpha
+[2026.04.25-02.27.00:927][  0]LogNNEDenoiser: Try create model instance with runtime NNERuntimeORTDml on RDG...
+[2026.04.25-02.27.00:983][  0]LogNNEDenoiser: Display: Created model instance with runtime NNERuntimeORTDml on RDG
+[2026.04.25-02.27.00:983][  0]LogNNEDenoiser: Create denoiser from asset /NNEDenoiser/NNED_Oidn2-3_Balanced_Alpha.NNED_Oidn2-3_Balanced_Alpha...
+[2026.04.25-02.27.00:984][  0]LogNNEDenoiser: Loaded input mapping from NNEDTIM_ColorAlbedoNormal_Alpha
+[2026.04.25-02.27.00:984][  0]LogNNEDenoiser: Loaded output mapping from NNEDTOM_Output_Alpha
+[2026.04.25-02.27.00:984][  0]LogNNEDenoiser: Try create model instance with runtime NNERuntimeORTDml on RDG...
+[2026.04.25-02.27.01:032][  0]LogNNEDenoiser: Display: Created model instance with runtime NNERuntimeORTDml on RDG
+[2026.04.25-02.27.01:032][  0]LogNNEDenoiser: Create temporal denoiser from asset /NNEDenoiser/NNEDT_Oidn2-3_Balanced_Alpha.NNEDT_Oidn2-3_Balanced_Alpha...
+[2026.04.25-02.27.01:070][  0]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.25-02.27.01:286][  0]LogD3D12RHI: Creating RTPSO with 21 shaders (0 cached, 21 new) took 142.87 ms. Compile time 105.09 ms, link time 37.77 ms.
+[2026.04.25-02.27.01:288][  0]LogD3D12RHI: Creating RTPSO with 12 shaders (0 cached, 12 new) took 150.34 ms. Compile time 122.16 ms, link time 28.05 ms.
+[2026.04.25-02.27.01:434][  0]LogStall: Startup...
+[2026.04.25-02.27.01:437][  0]LogStall: Startup complete.
+[2026.04.25-02.27.01:442][  0]LogLoad: (Engine Initialization) Total time: 9.09 seconds
+[2026.04.25-02.27.01:618][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2026.04.25-02.27.01:618][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2026.04.25-02.27.01:685][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.25-02.27.01:687][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2026.04.25-02.27.01:714][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2026.04.25-02.27.01:721][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 33.434 ms
+[2026.04.25-02.27.01:848][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Content/' took 0.28s
+[2026.04.25-02.27.01:864][  1]LogAssetRegistry: AssetRegistryGather time 0.3983s: AssetDataDiscovery 0.0489s, AssetDataGather 0.2956s, StoreResults 0.0539s. Wall time 6.4970s.
+	NumCachedDirectories 0. NumUncachedDirectories 3468. NumCachedFiles 0. NumUncachedFiles 11623.
+	BackgroundTickInterruptions 304.
+[2026.04.25-02.27.01:888][  1]LogStreaming: Display: FlushAsyncLoading(347): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.25-02.27.01:893][  1]LogFMOD: ===== BankLookup =====
+
+[2026.04.25-02.27.01:893][  1]LogFMOD: GUID: {CDDF5FE0-678B-4466-A8A4-4785BB5D8B24}
+
+[2026.04.25-02.27.01:893][  1]LogFMOD:   Locale: <NON-LOCALIZED>   Path: Master.bank
+
+[2026.04.25-02.27.01:893][  1]LogFMOD: GUID: {55C27F34-16F0-0824-2EED-CD7B4AAE8DBC}
+
+[2026.04.25-02.27.01:893][  1]LogFMOD:   Locale: <NON-LOCALIZED>   Path: Master.strings.bank
+
+[2026.04.25-02.27.01:893][  1]LogFMOD: Loading strings bank: ../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Content/FMOD/Desktop/Master.strings.bank
+[2026.04.25-02.27.01:895][  1]LogFMOD: Display: Loaded bank lookup
+[2026.04.25-02.27.01:895][  1]LogFMOD: Display: Loaded asset lookup
+[2026.04.25-02.27.01:923][  1]LogSourceControl: Uncontrolled asset enumeration started...
+[2026.04.25-02.27.01:924][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2026.04.25-02.27.02:165][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 4.370234
+[2026.04.25-02.27.02:166][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2026.04.25-02.27.02:167][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4.500395
+[2026.04.25-02.27.02:363][  5]LogSourceControl: Uncontrolled asset enumeration finished in 0.440159 seconds (Found 11598 uncontrolled assets)
+[2026.04.25-02.27.02:400][  7]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2026.04.25-02.27.02:450][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 4.776134
+[2026.04.25-02.27.02:451][ 13]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -76150346
+[2026.04.25-02.27.02:451][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4.776134, Update Interval: 325.036774
+[2026.04.25-02.27.03:304][ 48]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.25-02.27.03:351][ 48]LogFMOD: Display: Loaded bank lookup
+[2026.04.25-02.27.03:351][ 48]LogFMOD: Display: Loaded asset lookup
+[2026.04.25-02.27.03:355][ 48]LogFMOD: Default sample rate = 48000
+[2026.04.25-02.27.03:355][ 48]LogFMOD: System sample rate = 48000
+[2026.04.25-02.27.03:355][ 48]LogFMOD: Matching system sample rate 48000
+[2026.04.25-02.27.03:355][ 48]LogFMOD: CallbackHandler not set.
+[2026.04.25-02.27.03:401][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.25-02.27.03:401][ 48]BlueprintLog: Warning: Blueprint failed to compile:  BP_BasicGoblin
+[2026.04.25-02.27.05:421][ 48]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BLUEPRINTS/SpawnGoblins/BP_BasicGoblin.BP_BasicGoblin
+[2026.04.25-02.27.05:421][ 48]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.04.25-02.27.05:465][ 48]LogStreaming: Display: FlushAsyncLoading(351): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.25-02.27.06:071][ 48]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.04.25-02.27.06:284][ 48]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.04.25-02.27.06:329][ 48]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.04.25-02.27.06:597][ 49]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.04.25-02.27.06:889][ 51]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.04.25-02.27.06:936][ 54]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 6.69s
+[2026.04.25-02.27.33:778][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.04.25-02.27.33:829][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.25-02.27.33:881][994]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BLUEPRINTS/SpawnGoblins/BP_BasicGoblin] ([2] browsable assets)...
+[2026.04.25-02.27.33:882][994]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.04.25-02.27.33:923][994]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BLUEPRINTS/SpawnGoblins/BP_BasicGoblin.BP_BasicGoblin]
+[2026.04.25-02.27.33:923][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINTS/SpawnGoblins/BP_BasicGoblin]
+[2026.04.25-02.27.33:954][994]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/SpawnGoblins/BP_BasicGoblin
+[2026.04.25-02.27.33:954][994]LogSavePackage: Moving '../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Saved/BP_BasicGoblinFB04C1C34FA4E38AFC107DB6CD264994.tmp' to '../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Content/BLUEPRINTS/SpawnGoblins/BP_BasicGoblin.uasset'
+[2026.04.25-02.27.33:962][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.430 ms
+[2026.04.25-02.27.34:016][994]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.25-02.27.34:016][994]LogContentValidation: Enabled validators:
+[2026.04.25-02.27.34:016][994]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.25-02.27.34:016][994]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.25-02.27.34:016][994]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.25-02.27.34:016][994]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.25-02.27.34:016][994]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.25-02.27.34:016][994]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.25-02.27.34:016][994]AssetCheck: /Game/BLUEPRINTS/SpawnGoblins/BP_BasicGoblin Validating asset
+[2026.04.25-02.27.34:504][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.25-02.27.34:563][ 27]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLUEPRINTS/SpawnGoblins/BP_BasicGoblin] ([2] browsable assets)...
+[2026.04.25-02.27.34:563][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINTS/SpawnGoblins/BP_BasicGoblin]
+[2026.04.25-02.27.34:594][ 27]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/SpawnGoblins/BP_BasicGoblin
+[2026.04.25-02.27.34:594][ 27]LogSavePackage: Moving '../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Saved/BP_BasicGoblin724DCDFD4AD599DEB6E0828197652776.tmp' to '../../../../../../Users/Kayden/Documents/GitHub/GloryForGoblins/MyProject2/Content/BLUEPRINTS/SpawnGoblins/BP_BasicGoblin.uasset'
+[2026.04.25-02.27.34:602][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.099 ms (total: 231.530 ms)
+[2026.04.25-02.27.34:667][ 27]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.25-02.27.34:667][ 27]LogContentValidation: Enabled validators:
+[2026.04.25-02.27.34:667][ 27]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.25-02.27.34:667][ 27]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.25-02.27.34:667][ 27]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.25-02.27.34:667][ 27]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.25-02.27.34:667][ 27]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.25-02.27.34:668][ 27]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.25-02.27.34:668][ 27]AssetCheck: /Game/BLUEPRINTS/SpawnGoblins/BP_BasicGoblin Validating asset
+[2026.04.25-02.27.35:677][124]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.04.25-02.27.35:711][124]LogFMOD: Display: Loaded bank lookup
+[2026.04.25-02.27.35:711][124]LogFMOD: Display: Loaded asset lookup
+[2026.04.25-02.27.35:713][124]LogFMOD: Default sample rate = 48000
+[2026.04.25-02.27.35:713][124]LogFMOD: System sample rate = 48000
+[2026.04.25-02.27.35:713][124]LogFMOD: Matching system sample rate 48000
+[2026.04.25-02.27.35:713][124]LogFMOD: CallbackHandler not set.
+[2026.04.25-02.27.35:763][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.04.25-02.27.35:769][124]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.04.25-02.27.35:769][124]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.04.25-02.27.35:769][124]LogStreaming: Display: FlushAsyncLoading(535): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.25-02.27.35:774][124]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_WorldMainMenuDUPE
+[2026.04.25-02.27.35:784][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009408s)
+[2026.04.25-02.27.35:784][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/WorldMainMenuDUPE.WorldMainMenuDUPE to /Game/TopDown/Maps/UEDPIE_0_WorldMainMenuDUPE.WorldMainMenuDUPE (0.009446s)
+[2026.04.25-02.27.35:796][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.04.25-02.27.35:797][124]LogChaosDD: Creating Chaos Debug Draw Scene for world WorldMainMenuDUPE
+[2026.04.25-02.27.35:798][124]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2026.04.25-02.27.35:799][124]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.04.25-02.27.35:799][124]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.04.25-02.27.35:799][124]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.04.25-02.27.35:799][124]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.04.25-02.27.35:799][124]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.04.25-02.27.35:799][124]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.04.25-02.27.35:799][124]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.04.25-02.27.35:799][124]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.04.25-02.27.35:799][124]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.04.25-02.27.35:799][124]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.04.25-02.27.35:799][124]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.04.25-02.27.35:799][124]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.04.25-02.27.35:801][124]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.04.25-02.27.35:817][124]LogAudioMixer: Display: Using Audio Hardware Device Speakers (G733 Gaming Headset)
+[2026.04.25-02.27.35:817][124]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.04.25-02.27.35:817][124]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.04.25-02.27.35:817][124]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.04.25-02.27.35:817][124]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.04.25-02.27.35:817][124]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.04.25-02.27.35:818][124]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.04.25-02.27.35:818][124]LogInit: FAudioDevice initialized with ID 2.
+[2026.04.25-02.27.35:818][124]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.04.25-02.27.35:818][124]LogAudio: Display: Audio Device (ID: 2) registered with world 'WorldMainMenuDUPE'.
+[2026.04.25-02.27.35:818][124]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.04.25-02.27.35:867][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.25-02.27.35:869][124]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.25-02.27.35:874][124]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_WorldMainMenuDUPE.WorldMainMenuDUPE up for play (max tick rate 0) at 2026.04.24-22.27.35
+[2026.04.25-02.27.35:874][124]LogWorld: Bringing up level for play took: 0.005049
+[2026.04.25-02.27.35:892][124]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.04.25-02.27.35:895][124]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2026.04.25-02.27.35:895][124]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2026.04.25-02.27.35:895][124]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2026.04.25-02.27.35:901][124]PIE: Server logged in
+[2026.04.25-02.27.35:905][124]PIE: Play in editor total start time 0.216 seconds.
+[2026.04.25-02.27.35:908][124]LogEnhancedInput: Error: Null input trigger detected in mapping to input action 'IA_Openmap'
+[2026.04.25-02.27.36:008][125]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 47.84 ms. Compile time 40.01 ms, link time 7.82 ms.
+[2026.04.25-02.27.37:268][218]LogBlueprintUserMessages: [BP_MyGameState_C_0] New Game
+[2026.04.25-02.27.37:268][218]LogWindows: WindowsPlatformFeatures enabled
+[2026.04.25-02.27.37:270][218]LogBlueprintUserMessages: [BP_MyGameState_C_0] Saved
+[2026.04.25-02.27.38:273][306]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/TopDown/Maps/Overworld"
+[2026.04.25-02.27.38:273][306]LogNet: Browse: /Game/TopDown/Maps/Overworld
+[2026.04.25-02.27.38:273][306]LogLoad: LoadMap: /Game/TopDown/Maps/Overworld
+[2026.04.25-02.27.38:273][306]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_WorldMainMenuDUPE
+[2026.04.25-02.27.38:274][306]LogWorld: UWorld::CleanupWorld for WorldMainMenuDUPE, bSessionEnded=true, bCleanupResources=true
+[2026.04.25-02.27.38:275][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.25-02.27.38:328][306]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.25-02.27.38:332][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.04.25-02.27.38:333][306]LogStreaming: Display: FlushAsyncLoading(538): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.25-02.27.38:449][306]LogAudio: Display: Audio Device (ID: 2) registered with world 'Overworld'.
+[2026.04.25-02.27.38:449][306]LogChaosDD: Creating Chaos Debug Draw Scene for world Overworld
+[2026.04.25-02.27.38:450][306]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2026.04.25-02.27.38:450][306]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.04.25-02.27.38:509][306]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_Overworld.Overworld up for play (max tick rate 0) at 2026.04.24-22.27.38
+[2026.04.25-02.27.38:510][306]LogWorld: Bringing up level for play took: 0.048225
+[2026.04.25-02.27.38:510][306]LogNavigation: Warning: Recreating dtNavMesh instance RecastNavMesh-Default due to saved navmesh origin (X=0.000 Y=0.000 Z=940.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2026.04.25-02.27.38:541][306]LogLoad: Took 0.268331 seconds to LoadMap(/Game/TopDown/Maps/Overworld)
+[2026.04.25-02.27.38:541][306]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/TopDown/Maps/Overworld
+[2026.04.25-02.27.38:548][306]LogEnhancedInput: Error: Null input trigger detected in mapping to input action 'IA_Openmap'
+[2026.04.25-02.27.38:697][309]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2026.04.25-02.27.43:862][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.04.25-02.27.43:862][747]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_Overworld
+[2026.04.25-02.27.43:863][747]LogSlate: Window 'MyProject2 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.04.25-02.27.43:868][747]LogWorld: UWorld::CleanupWorld for Overworld, bSessionEnded=true, bCleanupResources=true
+[2026.04.25-02.27.43:871][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.25-02.27.43:873][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.04.25-02.27.43:876][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.25-02.27.43:890][747]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.25-02.27.43:890][747]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.04.25-02.27.43:890][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2026.04.25-02.27.43:892][747]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2026.04.25-02.27.43:899][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.04.25-02.27.43:923][748]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.04.25-02.27.46:498][ 13]LogSlate: Window 'Message Log' being destroyed
+[2026.04.25-02.27.46:502][ 13]LogSlate: Window 'Message Log' being destroyed
+[2026.04.25-02.27.49:140][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.04.25-02.27.49:236][ 21]LogStall: Shutdown...
+[2026.04.25-02.27.49:236][ 21]LogStall: Shutdown complete.
+[2026.04.25-02.27.49:297][ 21]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.04.25-02.27.49:297][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.25-02.27.49:381][ 21]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2026.04.25-02.27.49:465][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.04.25-02.27.49:473][ 21]Cmd: QUIT_EDITOR
+[2026.04.25-02.27.49:473][ 22]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.04.25-02.27.49:483][ 22]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.04.25-02.27.49:483][ 22]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.04.25-02.27.49:483][ 22]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.04.25-02.27.49:486][ 22]LogWorld: UWorld::CleanupWorld for WorldMainMenuDUPE, bSessionEnded=true, bCleanupResources=true
+[2026.04.25-02.27.49:486][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.25-02.27.49:505][ 22]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.04.25-02.27.49:505][ 22]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.04.25-02.27.49:506][ 22]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.04.25-02.27.49:506][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.25-02.27.49:508][ 22]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.04.25-02.27.49:508][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.25-02.27.49:510][ 22]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.04.25-02.27.49:510][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.25-02.27.49:511][ 22]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.04.25-02.27.49:512][ 22]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.04.25-02.27.49:512][ 22]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.04.25-02.27.49:512][ 22]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.04.25-02.27.49:698][ 22]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.04.25-02.27.49:698][ 22]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.04.25-02.27.49:698][ 22]LogAudio: Display: Audio Device unregistered from world 'WorldMainMenuDUPE'.
+[2026.04.25-02.27.49:698][ 22]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.04.25-02.27.49:698][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.04.25-02.27.49:700][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.04.25-02.27.49:704][ 22]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.04.25-02.27.49:704][ 22]LogAudio: Display: Audio Device Manager Shutdown
+[2026.04.25-02.27.49:704][ 22]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2026.04.25-02.27.49:706][ 22]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.04.25-02.27.49:707][ 22]LogExit: Preparing to exit.
+[2026.04.25-02.27.49:724][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.49:725][ 22]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.04.25-02.27.50:648][ 22]LogEditorDataStorage: Deinitializing
+[2026.04.25-02.27.50:705][ 22]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.04.25-02.27.50:714][ 22]LogExit: Editor shut down
+[2026.04.25-02.27.50:715][ 22]LogExit: Transaction tracking system shut down
+[2026.04.25-02.27.50:794][ 22]LogExit: Object subsystem successfully closed.
+[2026.04.25-02.27.50:801][ 22]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.04.25-02.27.51:094][ 22]LogMemoryProfiler: Shutdown
+[2026.04.25-02.27.51:095][ 22]LogNetworkingProfiler: Shutdown
+[2026.04.25-02.27.51:095][ 22]LoadingProfiler: Shutdown
+[2026.04.25-02.27.51:095][ 22]LogTimingProfiler: Shutdown
+[2026.04.25-02.27.51:627][ 22]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.04.25-02.27.51:627][ 22]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.04.25-02.27.51:627][ 22]LogNFORDenoise: NFORDenoise function shutting down
+[2026.04.25-02.27.51:627][ 22]RenderDocPlugin: plugin has been unloaded.
+[2026.04.25-02.27.51:662][ 22]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.04.25-02.27.51:663][ 22]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA3C7539B-482D-50B9-FB28-A4BF874DF142%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=6f9a58504f492fc3667235839bf39c65%7C21ff84497892463e84dc25a649fd283c%7Ce5efe59f-342a-46e0-83c2-ee1936b4fe4c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.04.25-02.27.52:235][ 22]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.04.25-02.27.52:240][ 22]LogXGEController: Cleaning working directory: C:/Users/Kayden/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.04.25-02.27.52:242][ 22]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.04.25-02.27.52:242][ 22]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.04.25-02.27.52:242][ 22]LogPakFile: Destroying PakPlatformFile
+[2026.04.25-02.27.52:448][ 22]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.04.25-02.27.52:505][ 22]LogExit: Exiting.
+[2026.04.25-02.27.52:527][ 22]Log file closed, 04/24/26 22:27:52
+>>>>>>> Stashed changes
