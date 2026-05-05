@@ -14,14 +14,6 @@
 		{
 			"Name": "NiagaraFluids",
 			"Enabled": true
-		},
-		{
-			"Name": "FMODStudio",
-			"Enabled": true
-		},
-		{
-			"Name": "FMODStudioNiagara",
-			"Enabled": true
 		}
 	]
 }
